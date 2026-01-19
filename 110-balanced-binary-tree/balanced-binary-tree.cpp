@@ -14,24 +14,17 @@ public:
     int height(TreeNode *node){
         if(node == nullptr) return 0;
 
-        return 1 + max(height(node->left), height(node->right));
+        int lh = height(node->left), rh =  height(node->right);
+
+        if(lh == -1 || rh == -1) return -1;
+        if(abs(lh - rh) > 1 ) return -1;
+
+        return 1+max(lh, rh);
+        
     }
 
     bool isBalanced(TreeNode* root) {
-        if(root == nullptr) return true;
-
-        int lh = height(root->left);
-        int rh = height(root->right);
-
-        if(abs(lh- rh) > 1) return false;
-
-        bool left = isBalanced(root->left);
-        bool right = isBalanced(root->right);
-
-        if(!left || !right) return false;
-
-        return true;
-
-        // this is O(N^2) solution 
+        
+        return height(root) != -1;
     }
 };
