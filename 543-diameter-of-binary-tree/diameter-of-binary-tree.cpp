@@ -12,30 +12,15 @@
 class Solution {
 public:
     int maxdia = 0;
-    void dfs(TreeNode* root){
-        if(root == nullptr) return;
-
-        stack<TreeNode*> st;
-        st.push(root);
-
-        while(!st.empty()){
-            TreeNode* curr = st.top();
-            st.pop();
-
-            maxdia = max(maxdia, height(curr->left)+height(curr->right));
-
-            if(curr->left != nullptr) st.push(curr->left);
-            if(curr->right != nullptr) st.push(curr->right);
-        }
-    }
-    int height(TreeNode *node){
+    int height(TreeNode *node, int &maxdia){
         if(node == nullptr) return 0;
-
-        return 1 + max(height(node->left), height(node->right));
+        int lh = height(node->left, maxdia), rh =  height(node->right, maxdia);
+        maxdia = max(maxdia, lh+rh);
+        return 1 + max(lh,rh);
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        dfs(root);
+        height(root, maxdia);
         return maxdia;
     }
 };
