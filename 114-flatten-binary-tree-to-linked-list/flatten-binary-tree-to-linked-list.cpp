@@ -10,24 +10,22 @@
  * };
  */
 class Solution {
-public: // iterative solution 
+public:
     void flatten(TreeNode* root) {
-        if(!root) return;    
-        // to make it work, we have to connect the right thing to left, so putting right node first in stack will help to connect the right nodes to the left since it is FIFO
-        stack<TreeNode*> st;
-        st.push(root);
-        while(!st.empty()){
-            TreeNode* curr = st.top();
-            st.pop();
-
-            if(curr->right) st.push(curr->right);
-            if(curr->left) st.push(curr->left);
-
-            if(!st.empty()) {
-                curr->right = st.top();
+        if(!root) return;
+        TreeNode* curr = root;
+        TreeNode* prev;
+        while(curr!=nullptr){
+            if(curr->left != nullptr){
+                prev = curr->left;
+                while(prev->right){
+                    prev = prev->right;
+                }
+                prev->right = curr->right;
+                curr->right = curr->left;
+                curr->left = nullptr;
             }
-
-            curr->left = NULL;
+            curr = curr->right;
         }
     }
 };
