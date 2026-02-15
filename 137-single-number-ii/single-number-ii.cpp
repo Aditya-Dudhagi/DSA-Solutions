@@ -1,12 +1,17 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        // solution 1: using sorting and traversing middle element;
-        sort(nums.begin(), nums.end());
-        int i=1, n = nums.size();
-        for(; i<n; i+=3){
-            if(nums[i] != nums[i-1]) return nums[i-1];
+        // solution 2: check each bit from 0th to 31st for each element and then count it , if it is 1 more than multiple of 3 , then set that index of ans
+        int ans = 0;
+        for(int bitInd = 0; bitInd < 32; bitInd++){
+            int cnt = 0;
+            for(int i=0; i<nums.size(); i++){
+                if(nums[i] & (1<<bitInd)) cnt++;
+            }
+            if(cnt%3 == 1) {
+                ans = ans | (1<<bitInd);
+            }
         }
-        return nums[i-1];
+        return ans;
     }
 };
