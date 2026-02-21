@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Memoization
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
