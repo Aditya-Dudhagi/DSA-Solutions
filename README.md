@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
+| [0461-hamming-distance](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0461-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Memoization
 |  |
