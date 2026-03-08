@@ -1,6 +1,5 @@
 class Solution {
 public:
-    
     void fs(int ind, int targ, vector<int>& candi, vector<int> &ds, int n, vector<vector<int>> &ans){
         if(ind == n){
             if(targ == 0) {
