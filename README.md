@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Rolling Hash
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
