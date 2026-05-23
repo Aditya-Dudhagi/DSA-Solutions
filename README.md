@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
