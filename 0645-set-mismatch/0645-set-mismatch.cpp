@@ -1,31 +1,18 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        // int n = nums.size();
-        // int xorr = 0;
-        // if(n%4 == 1) xorr = 1;
-        // else if(n%4 == 2) xorr = n+1;
-        // else if(n%4 == 3) xorr = 0;
-        // else xorr = n;
-
-        // for(int i:nums){
-        //     xorr ^= i;
-        // }   
-        // cout<<xorr;
-        // return {1, 1};
         int n = nums.size();
-        vector<int> arr(n, -1);
+        int actual_sum = n*(n+1)/2;
+        int nums_sum = 0, unique_sum = 0;
+        unordered_set<int> s(nums.begin(), nums.end());
 
-        for(int i=0; i<n; i++){
-            arr[nums[i]-1] ++;
-        }
+        for(int i: nums) nums_sum += i;
 
-        int fir = -1, sec = -1;
-        for(int i=0; i<n; i++){
-            if(arr[i] == -1) fir = i+1;
-            if(arr[i] == 1) sec = i+1;
-        }
+        for(int i:s) unique_sum += i;
 
-        return {sec, fir};
+        int missing = actual_sum - unique_sum;
+        int duplicate = nums_sum - unique_sum;
+
+        return {duplicate, missing};
     }
 };
