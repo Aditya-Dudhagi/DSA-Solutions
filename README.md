@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
@@ -166,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
