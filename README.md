@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
