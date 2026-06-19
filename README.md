@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0087-scramble-string) |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0087-scramble-string) |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0796-rotate-string) |
