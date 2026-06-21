@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0087-scramble-string) |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
+| [0509-fibonacci-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
 ## Greedy
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
+| [0509-fibonacci-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
@@ -196,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
