@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
