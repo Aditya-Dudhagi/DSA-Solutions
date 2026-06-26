@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
