@@ -11,25 +11,26 @@
  */
 class Solution {
 public:
-    TreeNode* insertIntoBST(TreeNode* root, int val) {
-        TreeNode* cur = root, *prev = nullptr;
+    TreeNode* insertIntoBST(TreeNode* root, int val) { 
+        // striver solution
+        TreeNode* cur = root;
         if(root == nullptr) {
-            root = new TreeNode(val);
-            return root;
+           return new TreeNode(val);
         }
-        while(cur){
-            if(cur->val<val){
-                prev = cur;
-                cur = cur->right;
-                if(cur==nullptr){
-                    prev->right = new TreeNode(val);
+        while(true){
+            if(cur->val<=val){
+                if(cur->right !=nullptr){
+                    cur = cur->right;
+                } else{
+                    cur->right = new TreeNode(val);
                     break;
                 }
             } else {
-                prev = cur;
-                cur = cur->left;
-                if(cur==nullptr){
-                    prev->left = new TreeNode(val);
+                if(cur->left !=nullptr){
+                    cur = cur->left;
+                }
+                else{
+                    cur->left = new TreeNode(val);
                     break;
                 }
             }
