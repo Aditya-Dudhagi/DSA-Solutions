@@ -18,9 +18,7 @@ public:
                 curr = curr->left;
             } else if(u>curr->val && v>curr->val){
                 curr = curr->right;
-            } else if(curr->val > u && curr->val < v){
-                return curr;
-            } else return curr->val == p->val ? curr : q;
+            } else return curr;
         }
         return curr;
     }
