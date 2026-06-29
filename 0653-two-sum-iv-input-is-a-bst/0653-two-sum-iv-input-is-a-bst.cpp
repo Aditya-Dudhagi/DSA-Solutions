@@ -9,41 +9,50 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+class BSTIterator {
+private: 
+    stack<TreeNode *> st;
+    // reverse = true -> before()
+    // reverse = false -> next()
+    bool reverse ;
+public:
+    BSTIterator(TreeNode* root, bool isReverse) {
+        reverse = isReverse;
+        pushAll(root);
+    }
+
+    // returns the next smallest number
+    int next() {
+        TreeNode *tmp = st.top();
+        st.pop();
+        if(!reverse) pushAll(tmp->right);
+        else  pushAll(tmp->left);
+        return tmp->val;
+    }
+
+    void pushAll(TreeNode* node){   // pushes all the left nodes ; left left left
+        for( ; node != NULL; ){
+            st.push(node);
+            if(reverse == true){
+                node = node->right;
+            } else node = node->left;
+        }
+    }
+};
+
 class Solution {
 public:
-    stack<TreeNode*> stb, stn;
-    void pushAllb(TreeNode* node){
-        for(; node != NULL; stb.push(node), node = node->right);
-    }
-    void pushAlln(TreeNode* node){
-        for(; node != NULL; stn.push(node), node = node->left);
-    }
-    int before(){
-       TreeNode* tmp = stb.top();
-       stb.pop();
-       pushAllb(tmp->left); 
-       return tmp->val;
-    }
-    int next(){
-       TreeNode* tmp = stn.top();
-       stn.pop();
-       pushAlln(tmp->right); 
-       return tmp->val;
-    }
     bool findTarget(TreeNode* root, int k) {
-        bool flag = false;
-        pushAllb(root);
-        pushAlln(root);
-        int i = next(), j = before();
+        BSTIterator l(root, false);
+        BSTIterator r(root, true);
+
+        int i = l.next(), j = r.next();
+        cout<<i<<j;
         while(i<j){
-            if(i+j == k && i!=j) {
-                flag = true;
-                break;
-            }
-            else if(i+j<k){
-                i=next();
-            } else j=before();
+            if(i+j == k) return true;
+            else if(i+j < k) i=l.next();
+            else j = r.next();
         }
-        return flag;
+        return false;
     }
 };
