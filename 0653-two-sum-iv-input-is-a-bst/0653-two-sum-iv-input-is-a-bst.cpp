@@ -35,7 +35,7 @@ public:
         pushAllb(root);
         pushAlln(root);
         int i = next(), j = before();
-        while(!stn.empty() && !stb.empty()){
+        while(i<j){
             if(i+j == k && i!=j) {
                 flag = true;
                 break;
