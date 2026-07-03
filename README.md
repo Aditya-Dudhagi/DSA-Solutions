@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -267,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
