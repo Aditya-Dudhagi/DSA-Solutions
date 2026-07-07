@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0733-flood-fill) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0733-flood-fill) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0994-rotting-oranges) |
 ## Counting Sort
