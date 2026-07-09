@@ -2,19 +2,14 @@ class Solution {
 public:
     bool dfs(int start, int color, vector<vector<int>>& graph, vector<int> &colorMat){
         colorMat[start] = color;
-    
-            for(int adjnode : graph[start]){
-                // if adj node is not colored, then give it opposite colorMat and push into queue
-                if(colorMat[adjnode] == -1){
-                    if(dfs(adjnode, !color, graph , colorMat) == false) return false;
-                    cout<<"Coloring adj node "<<adjnode<<" by colorMat: "<<colorMat[adjnode]<<" & push "<<adjnode<<endl;
-                } 
-                // if adj node has same colorMat then someone have colored it from other path
-                else if(colorMat[adjnode] == colorMat[start]){
-                    cout<<"BINGOOO you found someone already colored , that is node: "<<adjnode<<endl;
-                    return false;
-                }
+        for(int adjnode : graph[start]){
+            if(colorMat[adjnode] == -1){
+                if(dfs(adjnode, !color, graph , colorMat) == false) return false;
+            } 
+            else if(colorMat[adjnode] == color){
+                return false;
             }
+        }
         return true;
     }
     bool isBipartite(vector<vector<int>>& graph) {
