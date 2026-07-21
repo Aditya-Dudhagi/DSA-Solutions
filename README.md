@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2540-minimum-common-value) |
 ## String Matching
 |  |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
 | ------- |
@@ -315,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -329,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
