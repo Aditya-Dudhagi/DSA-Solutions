@@ -11,12 +11,12 @@ public:
 
         int price = 0;
 
-        priority_queue< pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<pair<int, pair<int, int>>> > pq;
+        queue< pair<int, pair<int, int>>> pq;
 
         pq.push({0, {0, src}});
 
         while(!pq.empty()){
-            auto it = pq.top();
+            auto it = pq.front();
             pq.pop();
             int currk = it.first;
             int currp = it.second.first, node = it.second.second;
