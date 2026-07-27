@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
