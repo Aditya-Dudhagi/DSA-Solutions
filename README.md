@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0968-binary-tree-cameras](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0968-binary-tree-cameras](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
