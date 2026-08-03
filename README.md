@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [0177-nth-highest-salary](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0184-department-highest-salary/) | Medium |
