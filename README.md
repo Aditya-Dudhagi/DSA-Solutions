@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
