@@ -1,8 +1,9 @@
 # Write your MySQL query statement below
-select distinct a.num as ConsecutiveNums
-from Logs a
- join Logs b
-on a.id+1 = b.id
- join Logs c
-on b.id+1 = c.id
-where a.num = b.num and b.num = c.num
+select distinct num as ConsecutiveNums
+from (
+    select num,
+    LAG(num) over (order by id) as prevnum,
+    LEAD(num) over (order by id) as nextnum
+    from Logs
+) t
+where prevnum = num and nextnum = num
