@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0577-employee-bonus/) | Easy |
+| [0619-biggest-single-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1158-market-analysis-i](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1158-market-analysis-i/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
