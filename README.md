@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1158-market-analysis-i/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1729-find-followers-count](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1873-calculate-special-bonus/) | Easy |
 ## Game Theory
