@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1158-market-analysis-i](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1158-market-analysis-i/) | Medium |
+| [1280-students-and-examinations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1729-find-followers-count](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1729-find-followers-count/) | Easy |
