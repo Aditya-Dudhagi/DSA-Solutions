@@ -38,13 +38,7 @@ class Solution {
 public:
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
-        // vector<int> graph[n+1];
-
-        // for(auto it:edges){
-        //     graph[it[0]].push_back(it[1]);
-        //     graph[it[1]].push_back(it[0]);
-        // }
-
+        
         DisjointSet ds(n);
 
         for(auto it: edges){
