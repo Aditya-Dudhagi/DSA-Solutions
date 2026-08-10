@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -433,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0877-stone-game/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
