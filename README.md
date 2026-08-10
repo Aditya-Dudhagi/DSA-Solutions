@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Memoization
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1707-maximum-xor-with-an-element-from-array/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 | Problem Name | Difficulty |
