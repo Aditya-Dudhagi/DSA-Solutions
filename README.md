@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0461-hamming-distance](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0542-01-matrix) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Math
 | Problem Name | Difficulty |
