@@ -3,22 +3,19 @@ public:
     string frequencySort(string s) {
         string ans = "";
         unordered_map<char, int>mp;
-        priority_queue<pair<int, char>> pq;
-
+        vector<pair<int, char>> v;
         for(char c:s){
             mp[c]++;
         }
 
         for(auto &[ch, cnt]:mp){
-            pq.push({cnt, ch});
+            v.push_back({cnt, ch});
         }
 
-        while(!pq.empty()){
-            auto [cnt, ch] = pq.top();
-            pq.pop();
-            while(cnt--){
-                ans += ch;
-            }
+        sort(v.begin(), v.end(), greater<pair<int, char>>());
+
+        for(auto it: v){
+            ans += string(it.first, it.second);
         }
         return ans;
     }
