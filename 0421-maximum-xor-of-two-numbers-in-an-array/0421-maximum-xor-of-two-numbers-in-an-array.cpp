@@ -39,7 +39,8 @@ public:
 
         for(int i=31; i>=0; i--){
             int bit = (num>>i) & 1;
-            if(node->containsKey(1-bit)){
+            if(node->containsKey(1-bit)){ // opposite bit exists
+                // then turn on the bit
                 result = result | (1<<i);
                 node = node->get(1-bit);
             }
