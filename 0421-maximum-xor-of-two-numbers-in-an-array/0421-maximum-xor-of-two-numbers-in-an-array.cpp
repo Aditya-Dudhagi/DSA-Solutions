@@ -35,19 +35,19 @@ public:
 
     int getMax(int num){
         Node* node = root;
-        int maxNum = 0;
+        int result = 0;
 
         for(int i=31; i>=0; i--){
             int bit = (num>>i) & 1;
             if(node->containsKey(1-bit)){
-                maxNum = maxNum | (1<<i);
+                result = result | (1<<i);
                 node = node->get(1-bit);
             }
             else {
                 node = node->get(bit);
             }
         }
-        return maxNum;
+        return result;
     }
 };
 
