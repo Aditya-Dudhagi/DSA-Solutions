@@ -1,6 +1,6 @@
 struct Node {
-    Node* links[26];
-    bool flag;
+    Node* links[26] = {};
+    bool flag = false;
     int child = 0;
 
     bool containsKey(char ch){
@@ -52,7 +52,7 @@ public:
         node->setEnd();
     }
 
-    string commonPref(string word){
+    string commonPref(){
         Node* node = root;
         string longest = "";
 
@@ -81,16 +81,6 @@ public:
             trie.insert(st);
         }
 
-        string ans = "";
-
-        for(int i=0; i<strs.size(); i++){
-            string pref = trie.commonPref(strs[i]);
-            cout<<pref<<" ";
-            cout<<i<<endl;
-            if(pref.size()<ans.size() || ans.empty()){
-                ans = pref;
-            } else continue;
-        }
-        return ans;
+        return trie.commonPref();
     }
 };
