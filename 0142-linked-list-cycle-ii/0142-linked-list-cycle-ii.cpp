@@ -9,13 +9,21 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        map<ListNode*, int> mp;
-        ListNode *tmp = head;
-        while(tmp != NULL){
-            if(mp[tmp] == 1) return tmp;
-            mp[tmp]++;
-            tmp = tmp->next;
+        ListNode *slow = head, *fast = head;
+        while(fast!=NULL && fast->next !=NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if(slow == fast){
+                slow = head;
+                while(slow != fast){
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+                return slow;
+            }
         }
+
         return NULL;
     }
 };
