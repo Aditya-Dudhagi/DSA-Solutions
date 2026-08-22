@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0877-stone-game/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1020-number-of-enclaves) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
