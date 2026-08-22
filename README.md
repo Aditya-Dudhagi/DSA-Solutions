@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0322-coin-change](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0322-coin-change) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0421-maximum-xor-of-two-numbers-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -503,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0148-sort-list/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
