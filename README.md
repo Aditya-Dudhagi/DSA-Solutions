@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
