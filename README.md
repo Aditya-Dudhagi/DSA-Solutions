@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
