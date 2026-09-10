@@ -530,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
