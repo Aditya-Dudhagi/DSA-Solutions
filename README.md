@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0207-course-schedule) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0127-word-ladder](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0148-sort-list/) | Medium |
