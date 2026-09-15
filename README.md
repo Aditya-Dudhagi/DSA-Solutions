@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0397-integer-replacement) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0542-01-matrix) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 | Problem Name | Difficulty |
