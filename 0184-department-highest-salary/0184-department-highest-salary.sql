@@ -4,7 +4,7 @@ from Employee e
 join Department d
 on e.departmentId = d.id
 where salary = (
-    select MAX(salary)
-    from Employee
+    select max(salary)
+    from Employee 
     where departmentId = e.departmentId
-);
+)
