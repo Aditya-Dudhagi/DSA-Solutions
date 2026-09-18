@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0075-sort-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0148-sort-list/) | Medium |
@@ -553,4 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
