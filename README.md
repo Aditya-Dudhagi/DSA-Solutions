@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0848-shifting-letters](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0796-rotate-string) |
+| [0848-shifting-letters](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
