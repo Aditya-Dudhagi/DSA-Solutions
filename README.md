@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
