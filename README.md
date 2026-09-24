@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2938-separate-black-and-white-balls](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Bit Manipulation
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/2540-minimum-common-value) |
+| [2938-separate-black-and-white-balls](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
