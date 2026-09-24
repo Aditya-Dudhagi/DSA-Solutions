@@ -11,32 +11,26 @@
  */
 class Solution {
 public:
+bool ansi = true;
     int height(TreeNode* root){
         if(root == nullptr) return 0;
-        if(!root->left && !root->right) return 1;
+
+        int lh = 0;
+        int rh = 0;
+
+        if(root->left) lh = height(root->left); 
+        if(root->right) rh = height(root->right); 
+
+        if(lh == -1 || rh == -1) return -1;
+
+        if(abs(lh - rh) > 1) return -1;
         return 1 + max(height(root->left), height(root->right));
+
+        // return 1 + max(height(root->left), height(root->right));
     }
 
     bool isBalanced(TreeNode* root) {
-        if(!root) return true;
-        queue<TreeNode*> q;
-
-        q.push(root);
-        bool ans = true;
-
-        while(!q.empty()){
-            TreeNode* curr = q.front();
-            q.pop();
-
-            int lefth = 0,  righth = 0; 
-            lefth = height(curr->left);
-            righth = height(curr->right);
-            if(abs(lefth - righth) > 1) ans &= false;
-
-            if(curr->left) q.push(curr->left);
-            if(curr->right) q.push(curr->right);
-        }
-
-        return ans;
+        return height(root) != -1; 
+        
     }
 };
