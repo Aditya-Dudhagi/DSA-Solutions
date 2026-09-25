@@ -577,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1114-print-in-order](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1114-print-in-order/) | Easy |
 <!---LeetCode Topics End-->
