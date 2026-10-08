@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0724-find-pivot-index](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1020-number-of-enclaves) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0695-max-area-of-island](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0886-possible-bipartition/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
