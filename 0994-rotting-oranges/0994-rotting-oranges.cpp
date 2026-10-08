@@ -1,52 +1,53 @@
+class Pair{
+public:
+    int x, y, t;
+    Pair(int x, int y, int t){
+        this->x = x;
+        this->y = y;
+        this->t = t;
+    }
+};
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int time = 0;
-        int n = grid.size(), m = grid[0].size();
-        int dx[4] = {-1, 0, 1, 0};
-        int dy[4] = {0, 1, 0, -1};
+        int ans = 0;
+        queue<Pair> pq;
 
-        queue<pair<int, int>> q;
+        int dx[] = {-1, 0, 1, 0};
+        int dy[] = {0, 1, 0, -1};
 
-        int fresh = 0;
-        
-        for(int i=0; i<grid.size(); i++){
-            for(int j=0; j<grid[0].size(); j++){
+        int m = grid.size(), n = grid[0].size();
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
                 if(grid[i][j] == 2){
-                    q.push({i, j});
+                    pq.push(Pair(i, j, 0));
                 }
-                else if(grid[i][j] == 1) fresh++;
             }
         }
 
-
-        while(!q.empty() && fresh>0){
+        while(!pq.empty()){
+            auto it = pq.front();
+            pq.pop();
+            int row = it.x, col = it.y, time = it.t;
             
-            int size = q.size();
-            time++;
+            ans = time;
 
+            for(int i=0; i<4; i++){
+                int nrow = row + dx[i], ncol = col + dy[i];
 
-            while(size--){
-                auto it = q.front();
-                q.pop();
-                
-                int r = it.first, c = it.second;
-
-
-                for(int i=0; i<4; i++){
-                    int nr = r + dx[i], nc = c + dy[i];
-                    if(nr>=0 && nr<n && nc>=0 && nc<m && grid[nr][nc] == 1){
-                        q.push({nr, nc});
-                        fresh--;
-                        grid[nr][nc] = 2;
-                    }
+                if(nrow>=0 && nrow<m && ncol>=0 && ncol<n && grid[nrow][ncol] == 1){
+                    pq.push(Pair(nrow, ncol, time + 1));
+                    grid[nrow][ncol] = 2;
                 }
-
             }
         }
 
-        return fresh == 0 ? time : -1;
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                if(grid[i][j] == 1) return -1;
+            }
+        }
 
-
+        return ans;
     }
 };
