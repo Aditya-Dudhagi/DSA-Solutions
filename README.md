@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Sliding Window
