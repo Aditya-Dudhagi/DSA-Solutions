@@ -26,7 +26,6 @@ public:
             for(int j=0; j<n; j++){
                 if(mat[i][j] == 0){
                     q.push(Pair(i, j, 0));
-                    vis[i][j] = 0;
                 }
             }
         }
