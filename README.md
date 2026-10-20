@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0039-combination-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Aditya-Dudhagi/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
